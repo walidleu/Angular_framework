@@ -1,0 +1,70 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Phone 1",
+      "price": "258",
+      "checked": false
+    },
+    {
+      "id": 2,
+      "name": "Phone",
+      "price": 758,
+      "checked": false
+    },
+    {
+      "name": "TV SAMSUNG",
+      "price": "14000",
+      "checked": false,
+      "id": 5
+    },
+    {
+      "name": "Iphone 13",
+      "price": 0,
+      "checked": false,
+      "id": 6
+    },
+    {
+      "name": "Iphone 14",
+      "price": 0,
+      "checked": false,
+      "id": 7
+    },
+    {
+      "name": "Iphone 15",
+      "price": 0,
+      "checked": false,
+      "id": 8
+    },
+    {
+      "name": "Iphone 19",
+      "price": 0,
+      "checked": false,
+      "id": 9
+    },
+    {
+      "name": "Iphone 20",
+      "price": 0,
+      "checked": false,
+      "id": 10
+    },
+    {
+      "name": "Iphone se",
+      "price": 0,
+      "checked": false,
+      "id": 11
+    },
+    {
+      "name": "Iphone nawfal",
+      "price": 0,
+      "checked": false,
+      "id": 12
+    },
+    {
+      "name": "Iphone 15.5",
+      "price": 0,
+      "checked": false,
+      "id": 13
+    }
+  ]
+}
